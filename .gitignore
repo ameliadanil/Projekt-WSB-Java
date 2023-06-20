@@ -1,3 +1,19 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+# Katalog docelowy dla Maven
+target/
+
+# Pliki wynikowe kompilacji
+*.class
+
+# Katalog zależności
+/lib/
+
+# Katalogi IDE
+.idea/
+*.iml
+
+# Katalog docelowy dla testów
+/test-output/
