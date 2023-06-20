@@ -10,7 +10,7 @@ public class Hero {
         this.strength = strength;
     }
 
-    // Gettery i Settery
+    // Getter/Setter
 
     public String getName() {
         return name;
