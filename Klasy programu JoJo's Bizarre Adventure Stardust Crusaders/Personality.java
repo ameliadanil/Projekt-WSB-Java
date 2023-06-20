@@ -5,7 +5,7 @@ public class Personality {
         this.traits = traits;
     }
 
-    // Gettery i Settery
+    // Getter/Setter
 
     public String getTraits() {
         return traits;
