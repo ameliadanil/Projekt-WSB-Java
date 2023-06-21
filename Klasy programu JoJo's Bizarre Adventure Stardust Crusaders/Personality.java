@@ -1,3 +1,4 @@
+// Klasa Personality
 public class Personality {
     private String traits;
 
@@ -5,7 +6,7 @@ public class Personality {
         this.traits = traits;
     }
 
-    // Getter/Setter
+    // Gettery i Settery
 
     public String getTraits() {
         return traits;
