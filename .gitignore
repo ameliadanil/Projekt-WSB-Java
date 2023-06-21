@@ -2,18 +2,29 @@
 /shelf/
 /workspace.xml
 
-# Katalog docelowy dla Maven
-target/
-
 # Pliki wynikowe kompilacji
 *.class
 
 # Katalog zależności
 /lib/
 
+# Katalog docelowy dla testów
+/test-output/
+
+# Katalog docelowy dla Maven
+target/
+
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+
 # Katalogi IDE
 .idea/
 *.iml
-
-# Katalog docelowy dla testów
-/test-output/
