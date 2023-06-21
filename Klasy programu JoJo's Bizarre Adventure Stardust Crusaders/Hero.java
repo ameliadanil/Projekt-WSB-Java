@@ -1,4 +1,4 @@
-
+// Klasa Hero
 public class Hero {
     private String name;
     private String abilities;
@@ -10,7 +10,7 @@ public class Hero {
         this.strength = strength;
     }
 
-    // Getter/Setter
+    // Gettery i Settery
 
     public String getName() {
         return name;
